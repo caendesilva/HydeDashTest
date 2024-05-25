@@ -1,6 +1,1 @@
----
-title: Xss
----
-
-
-test
+<script>alert('hacked')</script>
