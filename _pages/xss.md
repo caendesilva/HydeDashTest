@@ -2,4 +2,4 @@
 title: Xss
 ---
 
-Hi
+<script>alert('hacked')</script>
